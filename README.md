@@ -1,4 +1,4 @@
-# Hi, I'm Trisha Rane! 👋
+                                              # **Hi, I'm Trisha Rane!** 👋
 
 🎓 **Master's Student** in Information Management at the University of Illinois Urbana-Champaign  
 💡 Passionate about **Data Science, Machine Learning, and Predictive Modeling**  
@@ -13,6 +13,7 @@
 
 ## 📫 Get in Touch
 
-- [![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat&logo=microsoft-outlook)](mailto:trane2@illinois.edu)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/trisharane)  
+[![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat&logo=microsoft-outlook)](mailto:trane2@illinois.edu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/trisharane)  
+
 Let's connect and build something amazing! 🚀
