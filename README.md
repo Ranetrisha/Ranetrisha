@@ -1,4 +1,4 @@
-                                              # **Hi, I'm Trisha Rane!** 👋
+                                              # Hi, I'm Trisha Rane! 👋
 
 🎓 **Master's Student** in Information Management at the University of Illinois Urbana-Champaign  
 💡 Passionate about **Data Science, Machine Learning, and Predictive Modeling**  
