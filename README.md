@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Trisha Rane! 👋
 
-<!--
-**Ranetrisha/Ranetrisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's Student** in Information Management at the University of Illinois Urbana-Champaign  
+💡 Passionate about **Data Science, Machine Learning, and Predictive Modeling**  
+📊 Former **Decision Analytics Associate at ZS Associates** | **Graduate Assistant at Prairie Research Institute**
 
-Here are some ideas to get you started:
+## 🔧 My Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming & Data Analysis:** Python, R, SQL, Advanced Excel  
+**Data Science & Machine Learning:** NLP, A/B Testing, Time Series Analysis, Predictive Analytics  
+**Business Intelligence & Visualization:** Power BI, Tableau, Looker, Seaborn, Matplotlib  
+**Big Data & ETL:** Data Engineering, Automation, Anomaly Detection, Statistical Modeling  
+
+## 📫 Get in Touch
+
+- **Email**: [trane2@illinois.edu](mailto:trane2@illinois.edu)  
+- **LinkedIn**: [/trisharane](https://linkedin.com/in/trisharane)  
+
+Let's connect and build something amazing! 🚀
