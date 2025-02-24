@@ -1,6 +1,11 @@
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="50%" />
+</p>
+
 <h1 align="center">Hi, I'm Trisha Rane! 👋</h1>
 
-![Welcome GIF](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)
+---
 
 🎓 **Master's Student** in Information Management at the University of Illinois Urbana-Champaign  
 💡 Passionate about **Data Science, Machine Learning, and Predictive Modeling**  
