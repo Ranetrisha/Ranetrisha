@@ -5,8 +5,6 @@
 
 <h1 align="center">Hi, I'm Trisha Rane! 👋</h1>
 
----
-
 🎓 **Master's Student** in Information Management at the University of Illinois Urbana-Champaign  
 💡 Passionate about **Data Science, Machine Learning, and Predictive Modeling**  
 📊 Former **Decision Analytics Associate at ZS Associates** | **Graduate Assistant at Prairie Research Institute**
@@ -15,7 +13,7 @@
 I am a data-driven professional with a passion for turning insights into impactful solutions. My experience spans across **data science, machine learning, and predictive modeling**, enabling businesses to make informed decisions. I thrive on solving real-world problems through analytical thinking and technical expertise.
 
 
-## 🔧 My Toolbox 🛠️
+## 🔧 My Toolbox
 
 ### **💻 Programming & Data Analysis:**
 - Python, R, SQL, Advanced Excel
@@ -29,8 +27,7 @@ I am a data-driven professional with a passion for turning insights into impactf
 ### **🔄 Big Data & ETL:**
 - Data Engineering, Automation, Anomaly Detection, Statistical Modeling
 - Cloud Platforms: AWS, Google Cloud, Azure
----
-
+  
 ## 📫 Get in Touch
 
 [![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat&logo=microsoft-outlook)](mailto:trane2@illinois.edu)  
