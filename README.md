@@ -13,6 +13,6 @@
 
 ## 📫 Get in Touch
 
-- **Email**: [![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat&logo=microsoft-outlook)](mailto:trane2@illinois.edu)  
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/trisharane)  
+- [![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat&logo=microsoft-outlook)](mailto:trane2@illinois.edu)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/trisharane)  
 Let's connect and build something amazing! 🚀
